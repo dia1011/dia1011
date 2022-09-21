@@ -1,0 +1,3 @@
+- 👋 hello i am @dia1011
+- 👀 I’m interested in hacking
+- 🌱 I’m currently learning java nd work on DSA
