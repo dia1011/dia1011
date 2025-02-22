@@ -1,2 +1,2 @@
 - 👋 hello i am @dia1011
-- 🌱 I’m currently learning java nd DSA
+- 🌱 I’m currently learning PHP and backend technologies
